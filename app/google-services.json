@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "800990261567",
+    "firebase_url": "https://nitinsuranatask2-4d125.firebaseio.com",
+    "project_id": "nitinsuranatask2-4d125",
+    "storage_bucket": "nitinsuranatask2-4d125.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800990261567:android:69d1ed684fd80a90a2638a",
+        "android_client_info": {
+          "package_name": "com.example.adminnitinsuran2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800990261567-3jbqa38cjiifqa6p4unih2brr8m3phi8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adminnitinsuran2",
+            "certificate_hash": "fe774f2686c4c40aa0dd390724bb6c30b3eae57a"
+          }
+        },
+        {
+          "client_id": "800990261567-g94kclebfus1jc8jvef9ppsddnttihl2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0V0JVyGuQydj9DlziBxpEQQRdzHqF4rY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800990261567-g94kclebfus1jc8jvef9ppsddnttihl2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800990261567:android:3410c19bbf1cfbf3a2638a",
+        "android_client_info": {
+          "package_name": "com.example.nitinsuranatask2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800990261567-005oehul3p9vllfslikrocod54end8vn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nitinsuranatask2",
+            "certificate_hash": "fe774f2686c4c40aa0dd390724bb6c30b3eae57a"
+          }
+        },
+        {
+          "client_id": "800990261567-g94kclebfus1jc8jvef9ppsddnttihl2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0V0JVyGuQydj9DlziBxpEQQRdzHqF4rY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800990261567-g94kclebfus1jc8jvef9ppsddnttihl2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
